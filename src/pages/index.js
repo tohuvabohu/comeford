@@ -10,7 +10,7 @@ const IndexPage = () => (
     <h1>Welcome!</h1>
     <p>Comeford College is a Kuyperian, Christian college in Marysville, WA.</p>
     <p>Classes start Fall 2020, <em>Deo volente</em>!</p>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/board/">See the Board</Link>
   </Layout>
 )
 
