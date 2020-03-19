@@ -10,7 +10,7 @@ const IndexPage = () => (
     <p>Comeford College is a new Christian college with Kuyperian interests in Marysville, WA.</p>
     <p>Classes start Fall 2020, <em>Deo volente</em>!</p><br/>
     <h2>Inaugural Information Night!</h2>
-    <p>Thursday, March 19<br/>
+    <p><strong>POSTPONED</strong> March 19<br/>
     7:00 PM<br/>
     <a href="http://maps.google.com/maps?q=9015+44th+Dr.+NE++Marysville+WA+98270">9015 44th Dr. NE</a><br/><br/>
     Let us know you're interested (or what questions you have already) on our <a href="https://www.facebook.com/events/272804167027467/">Facebook Event Page</a>.</p>
